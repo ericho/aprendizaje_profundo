@@ -1,2 +1,2 @@
-# aprendizaje_profundo
+# Aprendizaje Profundo
 Tareas sobre Aprendizaje Profundo
